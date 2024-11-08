@@ -1,0 +1,30 @@
+{
+  "coord": {
+    "lon": -0.1278,
+    "lat": 51.5074
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02d"
+    }
+  ],
+  "main": {
+    "temp": 15.67,
+    "feels_like": 14.25,
+    "temp_min": 14.45,
+    "temp_max": 17.34,
+    "pressure": 1012,
+    "humidity": 72
+  },
+  "wind": {
+    "speed": 4.63,
+    "deg": 250
+  },
+  "clouds": {
+    "all": 20
+  },
+  "name": "London"
+}
